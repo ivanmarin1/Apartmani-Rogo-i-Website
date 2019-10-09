@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	galleryTitle="Apartment 5"
+	indexPageName="a5.html"
+
+>
+  <image imageURL="images/View.jpg"
+	thumbURL="thumbs/View.jpg"
+	linkURL="images/View.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\a5\View.JPG">
+    <title><![CDATA[View]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/View from the apartment.jpg"
+	thumbURL="thumbs/View from the apartment.jpg"
+	linkURL="images/View from the apartment.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a5\images\View from the apartment.jpg">
+    <title><![CDATA[View from the apartment]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Living room (2).jpg"
+	thumbURL="thumbs/Living room (2).jpg"
+	linkURL="images/Living room (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\a5\Living room (2).jpg">
+    <title><![CDATA[Living room (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Kitchen (2).jpg"
+	thumbURL="thumbs/Kitchen (2).jpg"
+	linkURL="images/Kitchen (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\a5\Kitchen (2).jpg">
+    <title><![CDATA[Kitchen (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Kitchen.jpg"
+	thumbURL="thumbs/Kitchen.jpg"
+	linkURL="images/Kitchen.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\a5\Kitchen.jpg">
+    <title><![CDATA[Kitchen]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Bathroom.jpg"
+	thumbURL="thumbs/Bathroom.jpg"
+	linkURL="images/Bathroom.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\a5\Bathroom.jpg">
+    <title><![CDATA[Bathroom]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Bathroom (2).jpg"
+	thumbURL="thumbs/Bathroom (2).jpg"
+	linkURL="images/Bathroom (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\a5\Bathroom (2).jpg">
+    <title><![CDATA[Bathroom (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Living room.jpg"
+	thumbURL="thumbs/Living room.jpg"
+	linkURL="images/Living room.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\a5\Living room.jpg">
+    <title><![CDATA[Living room]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Sleeping room (2).jpg"
+	thumbURL="thumbs/Sleeping room (2).jpg"
+	linkURL="images/Sleeping room (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\a5\Sleeping room (2).JPG">
+    <title><![CDATA[Sleeping room (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Sleeping room.jpg"
+	thumbURL="thumbs/Sleeping room.jpg"
+	linkURL="images/Sleeping room.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\a5\Sleeping room.jpg">
+    <title><![CDATA[Sleeping room]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

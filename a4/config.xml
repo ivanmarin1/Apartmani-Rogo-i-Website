@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Apartment 4"
+	useThumbDots="true"
+	indexPageName="a4.html"
+
+>
+  <image imageURL="images/41.jpg"
+	thumbURL="thumbs/41.jpg"
+	linkURL="images/41.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike Brač\a4\41.jpg">
+    <title><![CDATA[Balcony]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/da 427.jpg"
+	thumbURL="thumbs/da 427.jpg"
+	linkURL="images/da 427.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a4\images\da 427.jpg">
+    <title><![CDATA[Balcony]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/da 438.jpg"
+	thumbURL="thumbs/da 438.jpg"
+	linkURL="images/da 438.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a4\images\da 438.jpg">
+    <title><![CDATA[Balcony]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/fotoaparat 313.jpg"
+	thumbURL="thumbs/fotoaparat 313.jpg"
+	linkURL="images/fotoaparat 313.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a4\images\fotoaparat 313.jpg">
+    <title><![CDATA[View from the apartment]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/P1180876.jpg"
+	thumbURL="thumbs/P1180876.jpg"
+	linkURL="images/P1180876.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a4\images\P1180876.jpg">
+    <title><![CDATA[Living room]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ivanka 025.jpg"
+	thumbURL="thumbs/ivanka 025.jpg"
+	linkURL="images/ivanka 025.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a4\images\ivanka 025.jpg">
+    <title><![CDATA[Couch in the living room]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/xiJJ3XRG.jpg"
+	thumbURL="thumbs/xiJJ3XRG.jpg"
+	linkURL="images/xiJJ3XRG.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a4\images\xiJJ3XRG.jpg">
+    <title><![CDATA[Kitchen]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/da 1067.jpg"
+	thumbURL="thumbs/da 1067.jpg"
+	linkURL="images/da 1067.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a4\images\da 1067.jpg">
+    <title><![CDATA[Kitchen]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/CvHqyn0n.jpg"
+	thumbURL="thumbs/CvHqyn0n.jpg"
+	linkURL="images/CvHqyn0n.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a4\images\CvHqyn0n.jpg">
+    <title><![CDATA[Table]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/V5NLASdH.jpg"
+	thumbURL="thumbs/V5NLASdH.jpg"
+	linkURL="images/V5NLASdH.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a4\images\V5NLASdH.jpg">
+    <title><![CDATA[Bedroom]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/WGzEhdUQ.jpg"
+	thumbURL="thumbs/WGzEhdUQ.jpg"
+	linkURL="images/WGzEhdUQ.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a4\images\WGzEhdUQ.jpg">
+    <title><![CDATA[Bathroom]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/bild A4.jpg"
+	thumbURL="thumbs/bild A4.jpg"
+	linkURL="images/bild A4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a4\images\bild A4.jpg">
+    <title><![CDATA[Scheme of the apartment]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
