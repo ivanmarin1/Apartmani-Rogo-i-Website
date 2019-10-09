@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useThumbDots="true"
+	useFullscreenExpand="false"
+	galleryTitle="Apartment 2"
+	indexPageName="a2.html"
+
+>
+  <image imageURL="images/A2 (1).jpg"
+	thumbURL="thumbs/A2 (1).jpg"
+	linkURL="images/A2 (1).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a2\images\A2 (1).jpg">
+    <title><![CDATA[A2 (1)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/A2 (2).jpg"
+	thumbURL="thumbs/A2 (2).jpg"
+	linkURL="images/A2 (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a2\images\A2 (2).jpg">
+    <title><![CDATA[A2 (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/A2 (3).jpg"
+	thumbURL="thumbs/A2 (3).jpg"
+	linkURL="images/A2 (3).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a2\images\A2 (3).jpg">
+    <title><![CDATA[A2 (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/21.jpg"
+	thumbURL="thumbs/21.jpg"
+	linkURL="images/21.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike Brač\a2\21.jpg">
+    <title><![CDATA[A2 (4)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/A2 (4).jpg"
+	thumbURL="thumbs/A2 (4).jpg"
+	linkURL="images/A2 (4).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Documents\Website - apartments\galerija\a2\images\A2 (4).jpg">
+    <title><![CDATA[A2 (5)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/22.jpg"
+	thumbURL="thumbs/22.jpg"
+	linkURL="images/22.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike Brač\a2\22.jpg">
+    <title><![CDATA[A2 (6)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
