@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="false"
+	galleryTitle="Impressum"
+
+>
+  <image imageURL="images/Kuća.jpg"
+	thumbURL="thumbs/Kuća.jpg"
+	linkURL="images/Kuća.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike\impressum\Kuća.jpg">
+    <title><![CDATA[Naša kuća]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Naša kuća s pogledom.jpg"
+	thumbURL="thumbs/Naša kuća s pogledom.jpg"
+	linkURL="images/Naša kuća s pogledom.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\website\originalna\galerija\galerija\images\Naša kuća s pogledom.jpg">
+    <title><![CDATA[Naša kuća s pogledom]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Kuća s pogledom na more.jpg"
+	thumbURL="thumbs/Kuća s pogledom na more.jpg"
+	linkURL="images/Kuća s pogledom na more.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike\impressum\Kuća s pogledom na more.jpg">
+    <title><![CDATA[Kuća s pogledom na more]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Okućnica uz roštilj.jpg"
+	thumbURL="thumbs/Okućnica uz roštilj.jpg"
+	linkURL="images/Okućnica uz roštilj.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike\impressum\Okućnica uz roštilj.jpg">
+    <title><![CDATA[Okućnica uz roštilj]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Roštilj.jpg"
+	thumbURL="thumbs/Roštilj.jpg"
+	linkURL="images/Roštilj.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike\impressum\Roštilj.jpg">
+    <title><![CDATA[Roštilj]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Pogled na more.jpg"
+	thumbURL="thumbs/Pogled na more.jpg"
+	linkURL="images/Pogled na more.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike\impressum\Pogled na more.jpg">
+    <title><![CDATA[Pogled na more]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Pogled s našeg balkona.jpg"
+	thumbURL="thumbs/Pogled s našeg balkona.jpg"
+	linkURL="images/Pogled s našeg balkona.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike\impressum\Pogled s našeg balkona.jpg">
+    <title><![CDATA[Pogled s našeg balkona]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Uvala (2).jpg"
+	thumbURL="thumbs/Uvala (2).jpg"
+	linkURL="images/Uvala (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike\impressum\Uvala (2).jpg">
+    <title><![CDATA[Uvala]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Uvala (3).jpg"
+	thumbURL="thumbs/Uvala (3).jpg"
+	linkURL="images/Uvala (3).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike\impressum\Uvala (3).jpg">
+    <title><![CDATA[Uvala (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Uvala.jpg"
+	thumbURL="thumbs/Uvala.jpg"
+	linkURL="images/Uvala.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike\impressum\Uvala.jpg">
+    <title><![CDATA[Uvala (3)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Milna.jpg"
+	thumbURL="thumbs/Milna.jpg"
+	linkURL="images/Milna.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike\impressum\Milna.jpg">
+    <title><![CDATA[Milna]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Milna (2).jpg"
+	thumbURL="thumbs/Milna (2).jpg"
+	linkURL="images/Milna (2).jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike\impressum\Milna (2).jpg">
+    <title><![CDATA[Milna (2)]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Pogled s trajekta za Brač.jpg"
+	thumbURL="thumbs/Pogled s trajekta za Brač.jpg"
+	linkURL="images/Pogled s trajekta za Brač.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Ivan\Desktop\Slike\impressum\Pogled s trajekta za Brač.jpg">
+    <title><![CDATA[Pogled s trajekta za Brač]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
